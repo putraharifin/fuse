@@ -1,11 +1,11 @@
 const translations = {
     id: {
       meta: {
-        title: "IETM - Inovasi Energi dan Teknologi Masa Depan",
+        title: "IETM - INOVASI ENERGI DAN TEKNOLOGI MASA DEPAN",
       },
       brand: {
-        line1: "Inovasi Energi dan",
-        line2: "Teknologi Masa Depan",
+        line1: "INOVASI ENERGI DAN",
+        line2: "TEKNOLOGI MASA DEPAN",
         logoAlt: "Logo IETM",
       },
       nav: {
@@ -83,11 +83,11 @@ const translations = {
   
     en: {
       meta: {
-        title: "FUSE - Future Energy and Technology Innovation",
+        title: "FUSE - FUTURE SOCIETY FOR ENERGY AND TECHNOLOGY",
       },
       brand: {
-        line1: "Future Energy and",
-        line2: "Technology Innovation",
+        line1: "FUTURE SOCIETY FOR",
+        line2: "ENERGY AND TECHNOLOGY",
         logoAlt: "IETM Logo",
       },
       nav: {
@@ -108,8 +108,8 @@ const translations = {
       },
       about: {
         title: "About Us",
-        p1: "Future Energy and Technology Innovation (FUSE) is an organization engaged in research, innovation, and the development of sustainable energy and technology, serving as a collaborative platform for academics, researchers, professionals, students, and the public.",
-        p2: "IETM is committed to producing high-quality research, developing innovative and applicable technology solutions, and building strategic partnerships to advance science, energy security, and sustainable development, delivering tangible benefits to industry, government, and society.",
+        p1: "Future Society For Energy and Technology (FUSE) is an organization engaged in research, innovation, and the development of sustainable energy and technology, serving as a collaborative platform for academics, researchers, professionals, students, and the public.",
+        p2: "FUSE is committed to producing high-quality research, developing innovative and applicable technology solutions, and building strategic partnerships to advance science, energy security, and sustainable development, delivering tangible benefits to industry, government, and society.",
       },
       visiMisi: {
         visionTitle: "Vision",
@@ -154,7 +154,7 @@ const translations = {
         },
       },
       footer: {
-        orgName: "Future Energy and Technology Innovation",
+        orgName: "Future Society For Energy and Technology",
         address: [
           "Jalan Garu 2 No 21 Kelurahan Harjosari 1",
           "Medan Amplas 20147",
