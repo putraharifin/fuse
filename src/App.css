@@ -2,15 +2,16 @@
    VARIABEL & BASE
 =========================== */
 :root {
-  --primary: #2f968a;
-  --primary-dark: #247a70;
-  --secondary: #86c88a;
-  --dark: #243342;
+  --primary: #227192;
+  --primary-dark: #08305b;
+  --secondary: #37c1d7;
+  --dark: #08305b;
+  --accent: #f99830;
   --text: #3c4650;
   --bg: #f4f7f8;
   --radius: 14px;
-  --shadow-sm: 0 2px 10px rgba(36, 51, 66, 0.06);
-  --shadow-md: 0 10px 30px rgba(36, 51, 66, 0.1);
+  --shadow-sm: 0 2px 10px rgba(8, 48, 91, 0.06);
+  --shadow-md: 0 10px 30px rgba(8, 48, 91, 0.1);
 }
 
 html {
@@ -236,27 +237,33 @@ body {
 footer {
   background: var(--dark);
   color: #fff;
-  padding: 56px 0 40px;
-  margin-top: 70px;
-  border-top: 4px solid var(--primary);
+  padding: 24px 0; 
+  margin-top: auto; 
+  border-top: 4px solid var(--accent);
 }
 
 footer h4 {
   font-family: "Open Sans", sans-serif;
-  font-size: 1.15rem;
+  font-size: 1.05rem; /* Sedikit memperkecil ukuran judul teks */
   font-weight: 700;
+  margin-bottom: 6px; /* Mengurangi jarak bawah judul */
 }
 
 footer p {
   color: rgba(255, 255, 255, 0.75);
   font-weight: 300;
+  font-size: 0.9rem; /* Sedikit memperkecil teks alamat agar pas */
   margin-bottom: 0;
+  line-height: 1.4; /* Merapatkan spasi antar baris alamat */
 }
 
 .copyright {
   color: rgba(255, 255, 255, 0.75);
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
+
+
+
 
 /* ===========================
    RESPONSIVE

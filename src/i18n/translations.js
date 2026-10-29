@@ -83,7 +83,7 @@ const translations = {
   
     en: {
       meta: {
-        title: "IETM - Future Energy and Technology Innovation",
+        title: "FUSE - Future Energy and Technology Innovation",
       },
       brand: {
         line1: "Future Energy and",
@@ -108,7 +108,7 @@ const translations = {
       },
       about: {
         title: "About Us",
-        p1: "Future Energy and Technology Innovation (IETM) is an organization engaged in research, innovation, and the development of sustainable energy and technology, serving as a collaborative platform for academics, researchers, professionals, students, and the public.",
+        p1: "Future Energy and Technology Innovation (FUSE) is an organization engaged in research, innovation, and the development of sustainable energy and technology, serving as a collaborative platform for academics, researchers, professionals, students, and the public.",
         p2: "IETM is committed to producing high-quality research, developing innovative and applicable technology solutions, and building strategic partnerships to advance science, energy security, and sustainable development, delivering tangible benefits to industry, government, and society.",
       },
       visiMisi: {
