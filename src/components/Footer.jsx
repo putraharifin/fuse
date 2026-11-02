@@ -8,7 +8,7 @@ function Footer() {
       <div className="container">
         <div className="row align-items-center">
           <div className="col-lg-6">
-            <img src="/Logo_putih.PNG" width="70" alt={t.brand.logoAlt} />
+            <img src="/Logo.PNG" width="70" alt={t.brand.logoAlt} />
 
             <h4 className="mt-3">{t.footer.orgName}</h4>
 

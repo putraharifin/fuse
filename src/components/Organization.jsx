@@ -7,7 +7,7 @@ function Organization() {
   return (
     <section id="organisasi" className="container pb-5">
       <h2 className="section-title">{title}</h2>
-      
+
       <div className="text-center mt-5">
         {/* TINGKAT 1: KETUA */}
         <div className="row justify-content-center mb-4">
@@ -17,7 +17,7 @@ function Organization() {
                 {roles.chair}
               </p>
               <h5 className="fw-bold m-0" style={{ color: "var(--dark)", fontSize: "1.15rem" }}>
-                Dr. Ir. Abdi Hanra Sebayang, S.T., M.T., IPM.
+                Dr. Ir. Abdi Hanra Sebayang, S.T., M.T., IPM., ASEAN Eng.
               </h5>
             </div>
           </div>
@@ -50,7 +50,7 @@ function Organization() {
                 {roles.treasurer}
               </p>
               <h5 className="fw-bold m-0" style={{ color: "var(--dark)", fontSize: "1.05rem" }}>
-                Prof. Arridina Susan Silitonga, S.T., M.Eng., Ph.D
+                Prof. Ir. Arridina Susan Silitonga, S.T., M.Eng., Ph.D.
               </h5>
             </div>
           </div>

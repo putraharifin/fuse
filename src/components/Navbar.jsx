@@ -30,7 +30,7 @@ function Navbar() {
       <div className="container">
         <a className="navbar-brand d-flex align-items-center" href="#home">
           <img
-            src="/Logo_nobackgournd.PNG"
+            src="/Logo.PNG"
             width="65"
             className="me-3"
             alt={t.brand.logoAlt}

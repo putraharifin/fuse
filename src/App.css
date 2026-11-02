@@ -137,10 +137,17 @@ body {
 }
 
 .hero-logo {
-  width: 300px;
+  position: absolute;
+  right: 3%;      
+  top: 50%;         
+  transform: translateY(-50%); 
+  width: 440px;     
   max-width: 100%;
+  height: auto;
   filter: drop-shadow(0 12px 24px rgba(0, 0, 0, 0.18));
+  z-index: 2;
 }
+
 
 /* ===========================
    SECTION
@@ -237,8 +244,8 @@ body {
 footer {
   background: var(--dark);
   color: #fff;
-  padding: 24px 0; 
-  margin-top: auto; 
+  padding: 24px 0;
+  margin-top: auto;
   border-top: 4px solid var(--accent);
 }
 
@@ -261,9 +268,6 @@ footer p {
   color: rgba(255, 255, 255, 0.75);
   font-size: 0.85rem;
 }
-
-
-
 
 /* ===========================
    RESPONSIVE
@@ -317,8 +321,7 @@ footer p {
   }
 
   .hero-logo {
-    width: 200px;
-    margin-top: 40px;
+    display: none;
   }
 
   .section-title {

@@ -21,7 +21,7 @@ function Hero() {
           {/* Logo di kanan */}
           <div className="col-lg-5 text-center">
             <img
-              src="/Logo_putih.PNG"
+              src="/Logo.PNG"
               className="hero-logo"
               alt={t.brand.logoAlt}
             />
